@@ -6,7 +6,7 @@ ID : CT08DS2010
 
 Domain : python programming
 
-Duration : june to july2024
+Duration : 10june to 10july2024
 
 Mentor : SRAVANI GOUNI
 
