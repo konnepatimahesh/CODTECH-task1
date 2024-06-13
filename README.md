@@ -1,9 +1,9 @@
-Name : konnepati mahesh.
-Company : CODTECH IT SOLUTIONS.
-ID : CT08DS2010.
-Domain : python programming.
-Duration : june to july2024.
-Mentor : SRAVANI GOUNI.
+Name : konnepati mahesh,
+Company : CODTECH IT SOLUTIONS
+ID : CT08DS2010
+Domain : python programming
+Duration : june to july2024
+Mentor : SRAVANI GOUNI
 
 #  Overview of the project
 # Project : simple calculator
